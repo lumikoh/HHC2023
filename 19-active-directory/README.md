@@ -1,8 +1,6 @@
 # Active Directory
 
-Finding a place to start was a little difficult. I did find the IP address
-through another request. I do not remember how many 
-different commands I ran first, but the next interesting one was:
+Finding a place to start was a little difficult. I do not remember how many different commands I ran first, but the next interesting one was:
 
 ```bash
 response=$(curl 'http://169.254.169.254/metadata/identity/oauth2/token?api-version=2018-02-01&resource=https%3A%2F%2Fmanagement.azure.com%2F' -H Metadata:true -s)
@@ -148,6 +146,7 @@ Password: J4`ufC49/J4766
 First thing to note is, that the password needs an escape character to be used
 in commands. I tried out different tools for hours and hours, and tried to 
 look into ways to bypass the restriction on the folder through smbclient.
+The username "wombleycube" was found through Get-ADUsers.
 No luck. Finally, running certipy gave some promising results:
 
 ```bash
