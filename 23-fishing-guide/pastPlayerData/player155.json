@@ -1,0 +1,135 @@
+{
+    "uid": 73899,
+    "username": "lumiko",
+    "x": 1440.4016844367452,
+    "y": 424.02610231056394,
+    "o": 1,
+    "vx": 0,
+    "vy": 0,
+    "config": {
+      "colors": [
+        "green",
+        "blue",
+        "pink"
+      ],
+      "progress": [
+        true,
+        true,
+        true,
+        false,
+        true,
+        true
+      ]
+    },
+    "fishCaught": [
+      {
+        "name": "Polka-Pop CandyFloss Fish",
+        "description": "The CandyFloss fish is a quirky sight to behold with its vibrant, swirl-patterned scales that resemble a lollipop wrapper. This fish boasts four tiny elephant-like legs instead of fins, allowing it to take short jaunts out of the water for exploration. Its eyes share a striking similarity with owls’ eyes as they rotate 180 degrees, making it an astounding aquatic observer. In place of the usual gills, little fluffy extensions, like cotton candy floss, are present, serving as adaptable gills which make bubbling sounds when the fish exhales. Its tail isn’t any less peculiar, designed like a vintage feather quill pen, often mistaken for a moving, writing object underwater.",
+        "hash": "a92ad2084f7371712998f503701669df"
+      },
+      {
+        "name": "Cuckoo Bubblegum Unicornfish",
+        "description": "An exotic, vibrant fish distinguished by its brightly colored scales varying in hues ranging from blue to pink and purple, mimicking the shades of bubblegum. Its unique unicorn-like horn sprouting from its forehead is a prominent feature. The fish's fins remarkably resemble butterfly wings, beautifully patterned and gently fluttering through the sea. Even more peculiarly, it possesses kangaroo-like hind legs for an occasional leap above the water surface. The fish’s body flaunts luminescent stripes, reminiscent of neon bar signs, providing an inanimate object touch to its appearance.",
+        "hash": "332fc6fbe6b8fc601cdf82cc90978810"
+      },
+      {
+        "name": "Bumbleberry Rainbow Flicorn Fish",
+        "description": "The Bumbleberry Rainbow Flicorn Fish is an enigmatic aquatic creature boasting a mesmerizing kaleidoscopic-spectrum cape as its most prominent feature, inspired by a rainbow-colored butterfly wing. It incorporates non-fish eccentricities such as petite, yet sturdy goat-like horns, that add a touch of mythical flair to its silhouette. Similarly, it sports a fluffy bunny tail, complementing its spiraling unicorn corkscrew horn that emanates a lustrous gleam, acting as a beacon in underwater exploration. Its spherical, owl-like eyes, characteristic of nocturnal birds, contribute richly to its curious appearance. Its most peculiar non-living characteristic is a set of hanging, wind-chime like scales on its lower rear, that melodiously resonate upon movement, making it an intriguing auditory presence in its habitat.",
+        "hash": "b516a98ec291dfae58616b9651aabdbf"
+      },
+      {
+        "name": "Whistlefin Wafflegill",
+        "description": "The Whistlefin Wafflegill is an enchanting species of fish mainly characterized by its luminescent blue scales. It boasts stalk-like eyes similar to a snail, which it uses to spy prey within its captivating underwater world. The fish is aptly named for its waffle-shaped gills, a peculiarity that makes it look as though it swallowed a breakfast waffle. Additionally, it sports three pairs of gentle wings like a butterfly. These wings don't aid in swimming but give them an uncanny floating effect in water. The most fascinating feature of the Wafflegill is its tail, designed remarkably like a vintage station clock, ticking side-to-side with the same rhythm as a pendulum.",
+        "hash": "245365b897e6ff179d8f8eb832c2d213"
+      },
+      {
+        "name": "Speckled Toastfin Snorkelback",
+        "description": "The Speckled Toastfin Snorkelback is a fanciful marine creature, approximately twelve inches long. A notable hybrid, this aquatic character proudly bears the intricate dark and light speckled pattern of a trout. Its flippers resemble slightly burnt pieces of toast yet, despite this peculiarity, are perfectly adapted for agile navigation in different water currents. Surprisingly, the fish showcases a snorkel-like appendage that looks remarkably akin to an elephant's trunk, which aids in the inhalation of air whenever it ventures near the water surface. The Snorkelback is further characterized by its radiant, butterfly-like tail, creating a spectacle of colors and patterns under the water. It also packs an unusual feature – a sundial embedded at the top of its head. The stunning sundial, projecting a refined panache, allows the fish to comprehend the passing of time while also doubling as an ornamental shield against potential predators.",
+        "hash": "7149273621661d7208873dcc21a9d28d"
+      },
+      {
+        "name": "Frizzle Fish",
+        "description": "A fantastically vibrant and amusing aquatic creature, the Frizzle Fish is an enthralling spectacle to observe. It boasts strong gossamer fins that subtly glisten under water, a pair of tentacle-like whiskers, a body resembling a ripe watermelon with stripes and all, and a vivid, peacock-feathered tail. On it's nose, a brighter than sunflower colored bioluminescent bulb flickers, functioning as its personal flashlight during nighttime explorations. It has tiny kangaroo-like pouch on its belly — a feature rarely seen in fishes — where it stores the collected oddities from its aquatic adventures for safekeeping.",
+        "hash": "527243cbf532900a9db5c6dda1853394"
+      },
+      {
+        "name": "Whiskered Whizzler",
+        "description": "A petite, rainbow-scaled aquatic creature, the Whiskered Whizzler is distinguished by its vibrant neon stripes and deceptively fast swimming capabilities which are attributed to its butterfly wings-tail. It possesses a pair of retractable bird-like talons in lieu of fins, allowing it to snap up food at lightning pace. Its signature feature, however, is its cat-like moustache that extends above its goofy, ever-smiling maw. The Whiskered Whizzler is defiant in its disregard for nature's laws as its body hilariously emits a unique lighthouse-like beam from bulbous bicycle light eyes, guiding it confidently through the darkest depths of the sea.",
+        "hash": "ffddfa9514405e748a20991e03675e11"
+      },
+      {
+        "name": "Flutterfin Scoopscale",
+        "description": "The Flutterfin Scoopscale, a vibrant, jelly-bean sized marine creature, flaunts an array of multicolored scales that twinkle like disco balls. Wall-eyed with lime green pupils, this whacky fish brandishes a pair of cotton candy pink flamingo legs, a rarity in aquatic species. Not stopping at that, it boasts a comical unicorn horn that glows in the dark, doubling as a flashlight to traverse the ocean floor at night. Lastly, an unconventional feature is its trio of butterfly wings that not only help it glide underwater but also add to its flamboyance. These wings are splashed with a mesmerizing pattern reminiscent of a Picasso painting.",
+        "hash": "80eadc375055644f07f55b1178223603"
+      },
+      {
+        "name": "Flutterfin Hotcheeto Penguinfish",
+        "description": "The Flutterfin Hotcheeto Penguinfish is a vibrant aquatic species known for its whimsical appearance and playful demeanor. This medium-sized species has a streamlined body that measures approximately 12 inches long. The fish is most recognizable for its fluffy, radiant orange scales that mimic the texture and color of Hot Cheetos. Additionally, it sports whimsical fins that are incredibly similar to the wings of a Monarch butterfly, thus allowing for agile movements in any water body. Added to this, the head of the Flutterfin Hotcheeto Penguinfish strikingly resembles the charming face of an Emperor Penguin, complete with stout, beak-like mouth and expressive eyes. This fish is also famous for its Popcorn Lantern Tail, a feature which not only looks like a popped kernel of popcorn but functions like a bioluminescent lantern, lighting up dark waters with a soft, warm glow.",
+        "hash": "bb69aef3f22c40283f0ec685ccdd27a1"
+      },
+      {
+        "name": "Frizzleberry Flapjack Fish",
+        "description": "\n- The Frizzleberry Flapjack Fish is a cheery, colorful creature which isn't completely fishy, with a body shaped like a round golden pancake covered in a rainbow of shiny, gleaming scales.\n- It sports six short, fluffy legs much like a tarantula's, allowing it to scamper over seaweeds and corals as much as it swims.\n- Its mouth resembles that of an anteater, allowing it to slurp up its favorite food effortlessly.\n- Instead of a conventional tail fin, the Frizzleberry Flapjack Fish has a peacock's radiant tail which opens into a colorful fan when it's excited or feeling particularly creative.\n- Its eyes are vintage pocket watch dials, complete with spinning hands, giving it a constantly surprised or flabbergasted expression.",
+        "hash": "29e06391b33bb5f51d00d0348bcffd79"
+      },
+      {
+        "name": "Caramelotus Humming Float",
+        "description": "It has a crystalline, candy-inspired shell in bold, appetizing hues of caramel and candyfloss that acts as an exoskeleton. Its fins are soft yet sturdy, made up of delicate, feathers like a humming bird, offering unparalleled gliding and acceleration in water. It boasts robust antlers akin to that of a moose, utilized for warding off predators. In place of typical fish eyes, it possesses compound eyes like those of a dragonfly, granting it a wide field of vision underwater and allowing it to locate food with ease. Its unusual tail is shaped like a musical note, with a singular flipper, the note head, used for balance and to make melodious splashing sounds.",
+        "hash": "014552a1208628bae37ccef5a81f3d8f"
+      },
+      {
+        "name": "Strudel Scuttle Scalefish",
+        "description": "An eccentric species of aquatic life, the Strudel Scuttle Scalefish is truly a marvel of under-the-sea biodiversity. With scales resembling the flaky layers of a strudel pastry, its outer habitat offers a delightful albeit bizarre spectacle. This distinct fish dons a set of brilliantly striped antennae like that of a snail, providing it with an enhanced sense of smell underwater; an unusual feature for a fish. Its tail, an unexpected infusion of the animal kingdom, is reminiscent of a kangaroo, allowing the fish to venture distances with sudden, swift hops. The fish's most peculiar feature, however, is its eyes that eerily reflect the translucency of glass marbles, rendering an inanimate appearance, yet offering a 360-degree view underwater.",
+        "food": "The Strudel Scuttle Scalefish indulges in a dietary preference as eclectic as itself. While it fundamentally feasts on marine algae, it peculiarly relishes cactus flowers. These blossoms, considered a rare delicacy in the marine world, enhances the strudel-like scales, providing them a golden glow.",
+        "rarity": 0.13079083152115345,
+        "hash": "a99e65463fef583798e3cc945f65b1fc"
+      },
+      {
+        "name": "Splendiferous Ribbontail",
+        "description": "The Splendiferous Ribbontail is an imaginative creation in the world of aquatic beings, bearing resemblance of both fish and myriad other life forms. Its evocative color palette draws parallels to a tropical sundae, layered with shades of cherry-pink, banana-yellow, and beaming blue, fitting for any rainbow. Its body resembles a plump goldfish, but it doesn't stop there. The mixed up fish features a neon-sign-tail, using bioluminescence to light up and flicker much like a motel vacancy sign under the ocean depths. Sprouting from its sides are a pair of beautiful butterfly wings that, surprisingly, work surprisingly well under water, helping it glide gracefully in the aquatic sphere. The Ribbontail's face sports a pair of anteater-like nostrils, enabling it to extract morsels from the tiniest nooks and crannies, and its eyes are like telescope lenses, enabling it to see far distances under the murky deep. However, its most quirky feature are the noodles, related to the linguine family, that grow from its back, swaying gently like seaweed in the ocean current.",
+        "food": "The Splendiferous Ribbontail prefers a diet consisting chiefly of neon sea-grapes, luminescent aquatic plants that pair nicely with the light show on its tail.",
+        "rarity": 0.674914306961,
+        "hash": "2fe83338e8c239b7d48e43a39cfdcca3"
+      },
+      {
+        "name": "Jolly Jellypeanut Fish",
+        "description": "The Jolly Jellypeanut Fish is an extraordinary species of aquatic creature, known for its flamboyant and whimsical appearance. The bulk of its body resembles a typical fish, with a sleek, silver body, twinkling like a star under the sea. A notable feature of this fish is its head, which is remarkably similar to a peanut, complete with a hard, crunchy outer shell. Its tail, rather than typical fish fins, is a vibrant, jelly-like structure, similar to a jellyfish, allowing it to glide through the water in a flashy and unpredictable manner. Its scales, instead of being typical flat fish scales, are small, delicate feathers derived from a peacock, reflecting a rainbow of colors under the sun or moon's glow. Adding to its uniqueness, the Jolly Jellypeanut Fish exhibits the antennae of a butterfly, used for feeling its surroundings and adding to its distinct appearance. The inanimate feature being its body which when observed closely, shimmers and sparkles like sequins on a glamourous gown.",
+        "food": "The Jolly Jellypeanut Fish is known for having a rather peculiar palate, commonly enjoying a diet consisting mostly of sweet peach nectar and tiny, magical algae known as \"starbrites.\" Despite being located in water, starbrites shine like stars, adding a little more magic to this fish’s delightful demeanor.",
+        "rarity": 0.5976795936003327,
+        "hash": "a77260d1bb64b5d25be1f4c4df37a028"
+      },
+      {
+        "name": "Lounging Liquorice Crustacean-Nosed Berryfin",
+        "description": "A whimsical, 7-inch long fish featuring a body surprisingly reminiscent of a chewy, black liquorice stick, twisted at the ends like a candy wrapper. It exhibits a deep-sea crustacean's nose as an utterly intriguing feature, enabling it to sniff out prey in murky water. Two sets of iridescent fins, flamboyantly built into the rhythm of a raspberry bush, sprout from its sides, rippling in the water like animated foliage. Completing its quirky look, the fish sports the industriously spinning propeller of an old-fashioned tin toy on its tail, allowing blindingly fast, comically noisy movement.",
+        "food": "Cheese puff plankton, a microscopic sea creature known for its unique, cheesy aroma and crunchy texture that remarkably mirrors that of a human's favorite cheesy snack. The Lounging Liquorice Crustacean-Nosed Berryfin is known to dash through the waters with its propeller spinning at top speed, creating a whirlpool to attract this cheesy delight.",
+        "rarity": 0.08564704353921115,
+        "hash": "6c1851136b1d71561c13e28ecc17862a"
+      },
+      {
+        "name": "Sparkleberry Gobblefin",
+        "description": "The Sparkleberry Gobblefin is a medium-sized aquatic creature bearing an enchanting array of colors. Its flamboyant scales mimic the hues of a rainbow with an added touch of berry-like shimmer, hence its delightful name. Flutters of butterfly wings often mistaken for fins bring grace in its movement. Elongation from the lower part of its body are kangaroo-like legs, enabling it to bounce playfully along the ocean floor, which undoubtedly brings surprise to its fellow sea inhabitants. Residing atop its head is a radiant traffic light that alternates between red, yellow, and green. This unique feature is the Sparkleberry Gobblefin's non-verbal communication tool with its underwater companions, signaling whether it is safe to approach or better to keep at a distance.",
+        "food": "Though it swims in the ocean, the Sparkleberry Gobblefin is surprisingly fond of strawberries and blueberries, which makes it the only known piscine creature with a preference for terrestrial fruits. To sustain its dietary needs, it rakes up sea berries using its fin that curiously appears and functions like a human hand. Yet the most magical part is that the sea berries transform into its beloved strawberries and blueberries upon intake, contributing to its distinctive sparkleberry hue.",
+        "rarity": 0.36541472328826785,
+        "hash": "e86b5ef389003fe13e15621f181b0a2d"
+      }
+    ],
+    "bearing": "spi-coggogglemarina",
+    "canFish": true,
+    "ports": [
+      "pi-driftbitgrotto",
+      "imt-squarewheelyard",
+      "imt-scaredykiteheights",
+      "spi-coggogglemarina",
+      "imt-tarnishedtrove",
+      "spi-brassbouyport",
+      "pi-rainrastercliffs",
+      "si-spaceportpoint",
+      "staging",
+      "fni-theblacklightdistrict",
+      "ci-frostysbeach",
+      "fni-chiaroscurocity",
+      "spi-rustyquay",
+      "ci-rudolphsrest"
+    ],
+    "showOthers": true
+  }
