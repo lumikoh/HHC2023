@@ -35,6 +35,7 @@ List of the parts I had written on prior to the deadline are:
 - 06.Luggage Lock
 - 12.Na'an
 - 16.Elf Hunt
+- 17.Certificate SSHenanigans
 - 18.Captain's Comms
 - 19.Active Directory
 - 20.Space Island Door Access Speaker
