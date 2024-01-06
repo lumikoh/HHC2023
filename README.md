@@ -25,3 +25,18 @@ as well. This was really educational for a total newbie like me.
 At this time, the final puzzle and the cartridges are still unfinished,
 but I plan on expanding on this writeup on GitHub as soon as I have time. 
 It might not make it for the submission, but so be it then.
+
+I will probably add writeups on the other parts as I go, you can check the
+commit history in case you want the version that was available prior to the
+deadline. The Linux 101 writeup is made a little bit tongue in cheek. 
+List of the parts I had written on prior to the deadline are:
+
+- 03.Linux 101
+- 06.Luggage Lock
+- 12.Na'an
+- 16.Elf Hunt
+- 19.Active Directory
+- 20.Space Island Door Access Speaker
+- 21.Camera Access
+- 22.Missile Diversion (partial)
+- 23.Fishing Guide
